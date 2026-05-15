@@ -9,13 +9,18 @@
 
 BOBVAT is the first comprehensive VAT platform covering all 6 GCC countries with real-time data, precise calculations, and legal citations. Built specifically for Gulf businesses to simplify tax compliance.
 
+![BOBVAT Platform](public/Home.png)
+
 ---
 
 ## 🌟 Key Features
 
 ### 🌍 Complete GCC Coverage
+
+![GCC Countries Coverage](public/6%20countries.png)
+
 - **UAE** (5% VAT) - Active
-- **Saudi Arabia** (15% VAT) - Active  
+- **Saudi Arabia** (15% VAT) - Active
 - **Bahrain** (10% VAT) - Active
 - **Oman** (5% VAT) - Active
 - **Qatar** (Pending) - Advisory mode
@@ -198,6 +203,9 @@ npm run lint         # Run ESLint checks
 ## 🎯 Features in Detail
 
 ### VAT Calculator
+
+![VAT Calculator Tool](public/Calculate%20VAT.png)
+
 - Real-time rate lookups for all 6 GCC countries
 - Support for Standard, Exempt, Zero-Rated products
 - Special categories: Food, Medical, Education
